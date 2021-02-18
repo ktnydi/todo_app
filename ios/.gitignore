@@ -34,3 +34,6 @@ Runner/GeneratedPluginRegistrant.*
 # Ignore other files.
 .bundle
 vendor/bundle
+fastlane/report.xml
+Runner.app.dSYM.zip
+Runner.ipa
